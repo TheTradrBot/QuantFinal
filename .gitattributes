@@ -1,0 +1,8 @@
+# Override language detection
+*.py linguist-detectable=true
+*.roff linguist-detectable=false
+*.1 linguist-detectable=false
+*.man linguist-documentation=true
+
+# Mark Python as primary
+*.py linguist-language=Python
